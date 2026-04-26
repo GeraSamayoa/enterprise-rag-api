@@ -5,13 +5,10 @@ WORKDIR /app
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
-COPY pyproject.toml ./
-COPY README.md ./
-
-RUN pip install --upgrade pip setuptools wheel
-
 COPY . .
-RUN pip install -e .
+
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
 
 EXPOSE 8000
 
