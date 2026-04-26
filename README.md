@@ -149,7 +149,7 @@ uvicorn app.main:app --reload
 ```
 
 ### 10.5 Probar API
-- POST /query
+- POST /query/answer
 - POST /retrieval/search
 - POST /evaluation/retrieval/run
 - POST /evaluation/answers/run
