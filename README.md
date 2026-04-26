@@ -1,6 +1,9 @@
 # Frontend
 https://github.com/GeraSamayoa/enterprice-rag-ui
 
+# Video
+https://1drv.ms/v/c/cf40d378d4ec344b/IQBxALtGZK3qRa5Z7GFKvfCdAfAAwpK1YWXaj3BGXpJ8VkA?e=TnLoIZ
+
 # Proyecto Individual — RAG para Desarrolladores
 
 ## 1. Objetivo
